@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-adf-balaji",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf2c2ea3-f1e0-4cf0-aeb7-24d843a6809b",
+		"tenantId": "302797f7-74ff-4225-82c7-28082554bb09"
+	}
+}
