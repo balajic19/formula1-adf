@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "databricks-course-adf-balaji"
+		},
+		"ls_formula1dl_storage_accountKey": {
+			"value": ""
+		},
+		"ls_formula1dl_storage_properties_typeProperties_url": {
+			"value": "https://formula1dllearning.dfs.core.windows.net"
 		}
 	}
 }
